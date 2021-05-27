@@ -1,0 +1,13 @@
+name: Bigfunny
+version: ${project.version}
+author: 24Kings
+main: big.funny.bigfunny.Bigfunny
+api-version: 1.16
+
+commands:
+  funni:
+    permission: bigfunny.enable
+
+permissions:
+  bigfunny.enable:
+    default: op
