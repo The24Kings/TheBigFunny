@@ -8,7 +8,6 @@ import org.bukkit.plugin.java.JavaPlugin;
 public final class Bigfunny extends JavaPlugin {
     /* TODO
     *
-    * Change list of cur Players to UUIDs
     * Add config that contains list of players and if the plugin is enabled
     *
     * */
